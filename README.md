@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### 내이름은 소정현
+### 탐정이죠 ㅋ
 <!--
 **sjhyun7057/sjhyun7057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
