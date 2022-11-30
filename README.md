@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!-- Hi there 👋 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeun-lim&theme=nightowl&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun-lim&layout=compact&theme=tokyonight"></img>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjhyun7057&theme=nightowl&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhyun7057&layout=compact&theme=tokyonight"></img>
 <div align='center'>
   <h3>🧐 Introduction</h3>
   <p>안녕하세요, 소정현입니다.</p>
