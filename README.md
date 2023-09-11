@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ### :books: Education & Career
 
-- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - present)
+- Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01 - 2022.12)
 - Posco AI Big-Data Academy 16th (2021.10 - 2021.12)
 - Chonnam National University, Statistics Medical AI field Undergraduate researcher(2020.11 - 2021.06)
 - Chonnam National University, Department of Mathematics (2016.03 - 2022.02)
