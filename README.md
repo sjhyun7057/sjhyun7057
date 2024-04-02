@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=FAF4B7&text=JeongHyun🐱‍💻&fontSize=50&fontColor=353535)
 
 <p align="center">
-  <a href="[https://sohjeonghyun.notion.site/Soh-Jeong-Hyun-06d2977d7112475eaeb5f11106688f7b](https://www.notion.so/sohjeonghyun/Soh-Jeong-Hyun-dcad8945768b47ab92dad3d49d244cb5?pvs=4)">
+  <a href="https://www.notion.so/sohjeonghyun/Soh-Jeong-Hyun-dcad8945768b47ab92dad3d49d244cb5?pvs=4">
     <img src="https://img.shields.io/badge/PortFolio-CDF0EA?style=flat-square&logo=GitHub Sponsors&logoColor=black">
   </a>
 <!--   <a href="https://hyunse0.tistory.com/">
